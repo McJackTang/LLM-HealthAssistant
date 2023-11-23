@@ -9,4 +9,8 @@ We propose HealthCarer, a framework for personal health assistants powered by la
 # Code
 run ```data_text.py``` with your LLM API
 
+# Visual Counter   
+Our proposed GPTs model for cycle count and heart rate estimation from PPG,  is accessible at https://chat.openai.com/g/g-SR8nCXyWI-visual-counter.
+
+
 
