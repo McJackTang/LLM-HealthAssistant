@@ -47,12 +47,10 @@ In addition to textual information, dynamic medical vital images such as PPG or 
 # Citation
 [ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models](https://arxiv.org/abs/2311.12524)
 ```
-@misc{tang2023alpha,
-    title={ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models},
-    author={Jiankai Tang and Kegang Wang and Hongming Hu and Xiyuxing Zhang and Peiyu Wang and Xin Liu and Yuntao Wang},
-    year={2023},
-    eprint={2311.12524},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@inproceedings{tang2023alpha,
+  title={ALPHA: AnomaLous Physiological Health Assessment Using Large Language Models},
+  author={Tang, Jiankai and Wang, Kegang and Hu, Hongming and Zhang, Xiyuxing and Wang, Peiyu and Liu, Xin and Wang, Yuntao},
+  booktitle={AI Health Summit 23},
+  year={2023}
 }
 ```
